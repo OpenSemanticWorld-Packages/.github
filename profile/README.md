@@ -1,6 +1,6 @@
 # OpenSemanticWorld-Packages
 
-Data schema and content packages for OpenSemanticWorld / [OpenSemanticLab](https://github.com/OpenSemanticLab)
+Data schema and content packages for [OpenSemanticWorld](https://github.com/OpenSemanticWorld) / [OpenSemanticLab](https://github.com/OpenSemanticLab)
 
 ```mermaid
 classDiagram
