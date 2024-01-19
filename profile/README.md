@@ -2,17 +2,4 @@
 
 Data schema and content packages for [OpenSemanticWorld](https://github.com/OpenSemanticWorld) / [OpenSemanticLab](https://github.com/OpenSemanticLab)
 
-```mermaid
-classDiagram
-    class meta_legal
-    class core {Technical core requirements}
-    link core "https://github.com/OpenSemanticWorld-Packages/world.opensemantic.core" "world.opensemantic.core"
-    
-    core <|-- base
-    core <|-- ontology
-    base <|-- lab
-    lab <|-- lab_virtual
-    base <|-- meta_docs
-    lab <|--  demo
-    lab_virtual <|--  demo_lab_virtual
-```
+Until GitHub flavored Markdown allows rendering of Mermaid files directly, the overview graph of available packages can be found [here](https://github.com/OpenSemanticWorld-Packages/osw-package-maintenance/blob/main/README.md##page-packages).  
